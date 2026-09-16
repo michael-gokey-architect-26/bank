@@ -26,9 +26,9 @@ The reason for micro-frontends is not that “the application got big.” It is 
 | Application | Mission | Business ownership |
 |---|---|---|
 | [Shell](northstar-bank-shell-build-prompt.md) | Make independent applications feel like one trusted platform. | Platform / Enterprise UI team |
-| [Accounts]() | Help customers understand their money. | Deposits / Account-servicing team |
-| [Payments]() | Help authorized customers move money safely. | Payments / Treasury team |
-| [Trading]() | Help institutional users react to live markets. | Markets / Fixed-income team |
+| [Accounts](northstar-accounts-build-prompt.md) | Help customers understand their money. | Deposits / Account-servicing team |
+| [Payments](northstar-payments-build-prompt.md) | Help authorized customers move money safely. | Payments / Treasury team |
+| [Trading](northstar-trading-build-prompt.md) | Help institutional users react to live markets. | Markets / Fixed-income team |
 
 ---
 

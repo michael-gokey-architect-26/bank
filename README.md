@@ -5,7 +5,7 @@
 Northstar is a teaching application built to answer two questions at the same time:
 
 1. How do we build modern Angular applications in Angular 22?
-2. How do we let several independent teams ship business capabilities without making the customer experience feel fragmented?
+2. How do we let several independent teams ship business capabilities without making the customer experience feel fragmented? We use **micro-frontends**!
 
 The platform is deliberately small enough to understand, but shaped like an enterprise system. It uses a Shell plus three independently deployable Angular remotes: **Accounts**, **Payments**, and **Trading**.
 
@@ -25,10 +25,10 @@ The reason for micro-frontends is not that “the application got big.” It is 
 
 | Application | Mission | Business ownership |
 |---|---|---|
-| Shell | Make independent applications feel like one trusted platform. | Platform / Enterprise UI team |
-| Accounts | Help customers understand their money. | Deposits / Account-servicing team |
-| Payments | Help authorized customers move money safely. | Payments / Treasury team |
-| Trading | Help institutional users react to live markets. | Markets / Fixed-income team |
+| [Shell]() | Make independent applications feel like one trusted platform. | Platform / Enterprise UI team |
+| [Accounts]() | Help customers understand their money. | Deposits / Account-servicing team |
+| [Payments]() | Help authorized customers move money safely. | Payments / Treasury team |
+| [Trading]() | Help institutional users react to live markets. | Markets / Fixed-income team |
 
 ---
 
